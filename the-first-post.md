@@ -1,5 +1,5 @@
 ---
-category: ["node-red", "tia-portal"]
+category: ["Node-Red", "Tia Portal"]
 title: "Announcing readoku"
 description: "readoku.com allows to to extract your highlights from PDF files and export it into various format as a text, table or many structured way."
 date: "Sep. 20th 2024"

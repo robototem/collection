@@ -11,6 +11,6 @@ This platform will collect the knowledge that I have gathered over the years. Af
 
 The future plan consist of sharing knowledge in the field of industrial automation, the Internet of Things, web development with Nextjs, and maybe Node-Red and SQL. There are limitless things to share but I will try the give the core knowledge of it. Many times we build things on this things core knowledge and we will be searching for more to finally see the outcome product where people or companies can benefit from it. This is the time we need to dive deep into the software itself.
 
-I will enhance this post when the time comes.
+I also publish on my [Youtube Channel](https://www.youtube.com/@robototem)
 
 *Until next time!*

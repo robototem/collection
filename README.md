@@ -2,6 +2,7 @@
 category: [""]
 title: "Announcing robototem"
 description: "This will be the first and foremost post before all others come to life."
+hidden: true
 date: "Nov. 2nd 2024"
 ---
 

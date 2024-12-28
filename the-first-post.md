@@ -1,5 +1,5 @@
 ---
-category: [""]
+category: ["Node-Red","TIA Portal", "React", "Next.js"]
 title: "Announcing robototem"
 description: "This will be the first and foremost post before all others come to life."
 hidden: false

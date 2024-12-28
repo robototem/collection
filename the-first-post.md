@@ -1,14 +1,17 @@
 ---
-category: ["Node-Red", "TIA Portal"]
-title: "Announcing readoku"
-description: "readoku.com allows to to extract your highlights from PDF files and export it into various format as a text, table or many structured way."
-date: "Sep. 20th 2024"
+category: [""]
+title: "Announcing robototem"
+description: "This will be the first and foremost post before all others come to life."
+hidden: false
+date: "28 December 2024"
 ---
 
----
+# Welcome to robototem
 
-## Introduction
+This platform will collect the knowledge that I have gathered over the years. After struggling both in the field and with my projects, it is right now to give my knowledge back to the community where I learned and experienced most of it.
 
-Exporting highlights from PDF files might seem like a straightforward task considering the ubiquity of PDFs in everyday life. However, the reality is often quite different. Many websites and applications claim to offer this feature, yet they often come with limitations, making it challenging to utilize highlighted text in a structured manner.
+The future plan consist of sharing knowledge in the field of industrial automation, the Internet of Things, web development with Nextjs, and maybe Node-Red and SQL. There are limitless things to share but I will try the give the core knowledge of it. Many times we build things on this things core knowledge and we will be searching for more to finally see the outcome product where people or companies can benefit from it. This is the time we need to dive deep into the software itself.
 
-readoku.com stands out by offering a solution that not only allows you to extract highlights from PDFs but also provides the flexibility to format and export them in various formats. Whether you prefer viewing your highlights in Word documents, Excel spreadsheets, or simple text files, Readoku ensures a seamless experience, empowering you to organize and utilize your highlighted content efficiently.
+I also publish on my [Youtube Channel](https://www.youtube.com/@robototem)
+
+*Until next time!*
